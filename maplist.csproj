@@ -1,13 +1,20 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-    <PropertyGroup>
-        <TargetFramework>net8.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
-    </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputPath>bin\Debug\net8.0\Maplist\</OutputPath>
+    <Nullable>enable</Nullable>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
 
-    <ItemGroup>
-      <PackageReference Include="CounterStrikeSharp.API" Version="*" />
-    </ItemGroup>
+  <Target Name="PostBuild" AfterTargets="Build">
+    <Copy SourceFiles="@(LangFiles)" DestinationFolder="$(OutputPath)\lang\" SkipUnchangedFiles="true" />
+  </Target>
+
+  <ItemGroup>
+    <PackageReference Include="CounterStrikeSharp.API" Version="*" />
+    <LangFiles Include="lang\**\*" />
+  </ItemGroup>
 
 </Project>

@@ -1,0 +1,15 @@
+{
+  "Playerexec": "Cette commande ne peut être utilisée que par les joueurs !",
+  "MaplistPath": "Chemin du fichier de liste des cartes RTV : {0}",
+  "WaitCooldown": "Veuillez attendre {0} secondes avant d'utiliser cette commande à nouveau",
+  "MaplistFileNotExist": "Le fichier de liste des cartes n'existe pas !",
+  "MaplistPrintConsole": "La liste des cartes a été imprimée dans la console, appuyez sur ~",
+  "ServerMaplist": "Liste des cartes du serveur",
+  "TotalMaps": "Nombre total de cartes : {0}",
+  "MaplistEnd": "Fin de la liste des cartes",
+  "ReadMaplistError": "Erreur lors de la lecture de la liste des cartes : {0}",
+  "AlreadyVoted": "Vous avez déjà voté !",
+  "PlayerVoted": "{0} a voté pour changer de carte ({1}/{2}) - {3}%",
+  "VoteSuccess": "Vote réussi ! Changement pour {0}",
+  "ChangeMapError": "Erreur lors du changement de carte : {0}"
+} 

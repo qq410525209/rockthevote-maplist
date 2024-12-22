@@ -1,0 +1,15 @@
+{
+  "Playerexec": "このコマンドはプレイヤーのみ使用できます！",
+  "MaplistPath": "RTVマップリストファイルパス：{0}",
+  "WaitCooldown": "{0} 秒後に再度お試しください",
+  "MaplistFileNotExist": "マップリストファイルが存在しません！",
+  "MaplistPrintConsole": "マップリストをコンソールに出力しました。~ キーで確認できます",
+  "ServerMaplist": "サーバーマップリスト",
+  "TotalMaps": "マップ総数：{0}",
+  "MaplistEnd": "マップリスト表示完了",
+  "ReadMaplistError": "マップリスト読み込みエラー：{0}",
+  "AlreadyVoted": "すでに投票済みです！",
+  "PlayerVoted": "{0} がマップ変更に投票 ({1}/{2}) - {3}%",
+  "VoteSuccess": "投票成功！{0} に変更します",
+  "ChangeMapError": "マップ変更エラー：{0}"
+} 

@@ -1,0 +1,15 @@
+{
+  "Playerexec": "Bu komut sadece oyuncular tarafından kullanılabilir!",
+  "MaplistPath": "RTV harita listesi dosya yolu: {0}",
+  "WaitCooldown": "Bu komutu tekrar kullanmak için {0} saniye bekleyin",
+  "MaplistFileNotExist": "Harita listesi dosyası mevcut değil!",
+  "MaplistPrintConsole": "Harita listesi konsola yazdırıldı, ~ tuşuna basın",
+  "ServerMaplist": "Sunucu Harita Listesi",
+  "TotalMaps": "Toplam harita sayısı: {0}",
+  "MaplistEnd": "Harita listesi sonu",
+  "ReadMaplistError": "Harita listesi okuma hatası: {0}",
+  "AlreadyVoted": "Zaten oy kullandınız!",
+  "PlayerVoted": "{0} harita değişimi için oy verdi ({1}/{2}) - {3}%",
+  "VoteSuccess": "Oylama başarılı! {0} haritasına geçiliyor",
+  "ChangeMapError": "Harita değiştirme hatası: {0}"
+} 

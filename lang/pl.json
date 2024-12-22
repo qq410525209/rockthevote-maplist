@@ -1,0 +1,15 @@
+{
+  "Playerexec": "Ta komenda może być używana tylko przez graczy!",
+  "MaplistPath": "Ścieżka do pliku listy map RTV: {0}",
+  "WaitCooldown": "Poczekaj {0} sekund przed ponownym użyciem tej komendy",
+  "MaplistFileNotExist": "Plik listy map nie istnieje!",
+  "MaplistPrintConsole": "Lista map została wyświetlona w konsoli, naciśnij ~",
+  "ServerMaplist": "Lista Map Serwera",
+  "TotalMaps": "Całkowita liczba map: {0}",
+  "MaplistEnd": "Koniec listy map",
+  "ReadMaplistError": "Błąd odczytu listy map: {0}",
+  "AlreadyVoted": "Już zagłosowałeś!",
+  "PlayerVoted": "{0} zagłosował za zmianą mapy ({1}/{2}) - {3}%",
+  "VoteSuccess": "Głosowanie udane! Zmiana na {0}",
+  "ChangeMapError": "Błąd podczas zmiany mapy: {0}"
+} 

@@ -1,0 +1,15 @@
+{
+  "Playerexec": "This command can only be used by players!",
+  "MaplistPath": "RTV maplist file path: {0}",
+  "WaitCooldown": "Please wait {0} seconds before using this command again",
+  "MaplistFileNotExist": "Maplist file does not exist!",
+  "MaplistPrintConsole": "Maplist has been printed to console, press ~ to view",
+  "ServerMaplist": "Server Maplist",
+  "TotalMaps": "Total maps: {0}",
+  "MaplistEnd": "End of maplist",
+  "ReadMaplistError": "Error reading maplist: {0}",
+  "AlreadyVoted": "You have already voted!",
+  "PlayerVoted": "{0} voted to change map ({1}/{2}) - {3}%",
+  "VoteSuccess": "Vote passed! Changing map to {0}",
+  "ChangeMapError": "Error changing map: {0}"
+} 

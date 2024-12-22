@@ -1,0 +1,15 @@
+{
+  "Playerexec": "Este comando só pode ser usado por jogadores!",
+  "MaplistPath": "Caminho do arquivo de lista de mapas RTV: {0}",
+  "WaitCooldown": "Aguarde {0} segundos antes de usar este comando novamente",
+  "MaplistFileNotExist": "Arquivo de lista de mapas não existe!",
+  "MaplistPrintConsole": "Lista de mapas foi impressa no console, pressione ~",
+  "ServerMaplist": "Lista de Mapas do Servidor",
+  "TotalMaps": "Total de mapas: {0}",
+  "MaplistEnd": "Fim da lista de mapas",
+  "ReadMaplistError": "Erro ao ler lista de mapas: {0}",
+  "AlreadyVoted": "Você já votou!",
+  "PlayerVoted": "{0} votou para mudar o mapa ({1}/{2}) - {3}%",
+  "VoteSuccess": "Votação aprovada! Mudando para {0}",
+  "ChangeMapError": "Erro ao mudar de mapa: {0}"
+} 

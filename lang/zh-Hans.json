@@ -1,0 +1,15 @@
+{
+  "Playerexec": "此命令只能由玩家使用!",
+  "MaplistPath": "RTV地图列表文件路径: {0}",
+  "WaitCooldown": "请等待 {0} 秒后再使用此命令",
+  "MaplistFileNotExist": "地图列表文件不存在!",
+  "MaplistPrintConsole": "已将地图列表打印至控制台，请按 ~ 键查看",
+  "ServerMaplist": "服务器地图列表",
+  "TotalMaps": "总地图数量: {0}",
+  "MaplistEnd": "地图列表显示完毕",
+  "ReadMaplistError": "读取地图列表时发生错误: {0}",
+  "AlreadyVoted": "你已经投过票了!",
+  "PlayerVoted": "{0} 投票更换地图 ({1}/{2}) - {3}%",
+  "VoteSuccess": "投票通过! 即将更换至 {0}",
+  "ChangeMapError": "更换地图时发生错误: {0}"
+}

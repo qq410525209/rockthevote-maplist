@@ -1,0 +1,15 @@
+{
+  "Playerexec": "이 명령어는 플레이어만 사용할 수 있습니다!",
+  "MaplistPath": "RTV 맵 목록 파일 경로: {0}",
+  "WaitCooldown": "{0}초 후에 다시 시도해 주세요",
+  "MaplistFileNotExist": "맵 목록 파일이 존재하지 않습니다!",
+  "MaplistPrintConsole": "맵 목록이 콘솔에 출력되었습니다. ~ 키를 눌러 확인하세요",
+  "ServerMaplist": "서버 맵 목록",
+  "TotalMaps": "전체 맵 수: {0}",
+  "MaplistEnd": "맵 목록 표시 완료",
+  "ReadMaplistError": "맵 목록 읽기 오류: {0}",
+  "AlreadyVoted": "이미 투표하셨습니다!",
+  "PlayerVoted": "{0}님이 맵 변경 투표 ({1}/{2}) - {3}%",
+  "VoteSuccess": "투표 성공! {0}로 변경됩니다",
+  "ChangeMapError": "맵 변경 중 오류 발생: {0}"
+} 

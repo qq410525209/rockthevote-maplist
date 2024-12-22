@@ -1,0 +1,15 @@
+{
+  "Playerexec": "Dieser Befehl kann nur von Spielern verwendet werden!",
+  "MaplistPath": "RTV-Kartenliste Dateipfad: {0}",
+  "WaitCooldown": "Bitte warten Sie {0} Sekunden, bevor Sie diesen Befehl erneut verwenden",
+  "MaplistFileNotExist": "Kartenliste existiert nicht!",
+  "MaplistPrintConsole": "Kartenliste wurde in der Konsole ausgegeben, drücken Sie ~",
+  "ServerMaplist": "Server Kartenliste",
+  "TotalMaps": "Gesamtanzahl der Karten: {0}",
+  "MaplistEnd": "Ende der Kartenliste",
+  "ReadMaplistError": "Fehler beim Lesen der Kartenliste: {0}",
+  "AlreadyVoted": "Sie haben bereits abgestimmt!",
+  "PlayerVoted": "{0} hat für einen Kartenwechsel gestimmt ({1}/{2}) - {3}%",
+  "VoteSuccess": "Abstimmung erfolgreich! Wechsle zu {0}",
+  "ChangeMapError": "Fehler beim Kartenwechsel: {0}"
+} 
