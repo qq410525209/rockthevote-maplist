@@ -7,9 +7,9 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/maplist.csproj",
+                "${workspaceFolder}/Maplist.csproj",
                 "--output",
-                "compiled/maplist",
+                "compiled/Maplist",
             ],
             "problemMatcher": "$msCompile",
             "group": {
